@@ -6,5 +6,5 @@
 2. CRUD Operation for Post Model
  - Create (admin)
  - Read   (everyone)
- - Update (admin,unfinished 'deadline')
+ - Update (admin, unfinished 'deadline')
  - Delete (admin)
